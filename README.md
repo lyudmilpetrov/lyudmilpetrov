@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **lyudmilpetrov79@gmail.com**
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
+  <h3>Connect with me:</h3>
+  <p>
     <a
       href="https://www.linkedin.com/in/lyudmil-petrov/"
       target="blank"
@@ -27,95 +27,52 @@
       />
     </a>
   </p>
-  <h3 align="left">Languages</h3>
+  <h3>Languages</h3>
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
     <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;">
 
     </div>
   </div>
-  <h3 align="left">Tools, Frameworks, Libraries, Languages</h3>
+  <h3>Tools, Frameworks, Libraries, Languages</h3>
     <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
       <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-            <img
-              src="./assets/dotnet.svg"
-              alt="dotnet"
-              width="40"
-              height="40"
-            />
-            <span>.Net & .Net Framework</span>
-        </a>
-        <a href="https://react.dev" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-            <img
-              src="./assets/react.jpeg"
-              alt="react"
-              width="40"
-              height="40"
-            />
-            <span>React</span>
-        </a>
-        <a href="https://angular.io" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-            <img
-              src="./assets/angular.svg"
-              alt="angular"
-              width="40"
-              height="40"
-              title="Angular - HTML and TypeScript-based web application framework"
-            />
-            <span>Angular</span>
-        </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-          <img
-            src="./assets/csharp.svg"
-            alt="csharp"
-            width="40"
-            height="40"
-            title="C#"
-          />          <span>C#</span>
-        </a>
-        <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-        <img
-          src="./assets/javascript.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-          title="JavaScript"
-        /        <span>JavaScript</span>
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-          <img
-            src="./assets/typescript.svg"
-            alt="typescript"
-            width="40"
-            height="40"
-            title="TypeScript"
-          /        <span>TypeScript</span>
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-          <img
-            src="./assets/html5.svg"
-            alt="html5"
-            width="40"
-            height="40"
-            title="HTML"
-          /        <span>HTML</span>
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-            <img
-              src="./assets/css.png"
-              alt="css"
-              width="40"
-              height="40"
-            />
-            <span>CSS</span>
-        </a>
+      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <span style="display: flex; flex-direction: column;>
+      <img src="./assets/dotnet.svg" alt="dotnet" width="40" height="40" title=".Net" />
+      .Net & .Net Framework</span>
+      </a>
+      <a href="https://react.dev" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/react.jpeg" alt="react" width="40" height="40" title="React" />
+      <span>React</span>
+      </a>
+      <a href="https://angular.io" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/angular.svg" alt="angular" width="40" height="40" title="Angular" />
+      <span>Angular</span>
+      </a>
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/csharp.svg" alt="csharp" width="40" height="40" title="C#" />
+      <span>C#</span>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/javascript.svg" alt="javascript" width="40" height="40" title="JavaScript" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;" />
+      <span>JavaScript</span>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/typescript.svg" alt="typescript" width="40" height="40" title="TypeScript" />
+      <span>TypeScript</span>
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/html5.svg" alt="html5" width="40" height="40" title="HTML" />
+      <span>HTML</span>
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/css.png" alt="css" width="40" height="40" title="CSS" />
+      <span>CSS</span>
+      </a>
     </div>
   </div>
-  <h3 align="left">Cloud providers</h3>
-  <p align="left">
+  <h3>Cloud providers</h3>
+  <p>
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
     <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;"> 
       <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -147,8 +104,8 @@
     </a>
     </div>
   </div>
-  <!-- <h3 align="left">UI frameworks and others</h3>
-  <p align="left">
+  <!-- <h3>UI frameworks and others</h3>
+  <p>
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
     <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -167,7 +124,6 @@
         height="40"
             <span>Chart.js</span>
     </a>
-
 
     <a href="https://d3js.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img
@@ -203,7 +159,6 @@
         height="40"
       />
     </a>
-
 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img
@@ -285,5 +240,6 @@
     </a>
 
       </div>
+
     </div>
   </p> -->
