@@ -15,25 +15,40 @@
 
   <h3>Connect with me:</h3>
   <p>
-    <a
-      href="https://www.linkedin.com/in/lyudmil-petrov/"
-      target="blank"
-      >
-      <img
-        align="center"
-        src="./assets/linkedin.svg"
-        height="30"
-        width="40"
-      />
+    <a href="https://www.linkedin.com/in/lyudmil-petrov/" target="blank" >
+      <img src="./assets/linkedin.svg" height="30" width="40" />
     </a>
   </p>
   <h3>Languages</h3>
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; background-color: blue;">
     <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;">
-
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/csharp.svg" alt="csharp" width="40" height="40" title="C#" />
+      <span>C#</span>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/javascript.svg" alt="javascript" width="40" height="40" title="JavaScript" />
+      <span>JavaScript</span>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/typescript.svg" alt="typescript" width="40" height="40" title="TypeScript" />
+      <span>TypeScript</span>
+      </a>
+      <a href="https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/sql.svg" alt="typescript" width="40" height="40" title="SQL" />
+      <span>SQL</span>
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/html5.svg" alt="html5" width="40" height="40" title="HTML" />
+      <span>HTML</span>
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/css.png" alt="css" width="40" height="40" title="CSS" />
+      <span>CSS</span>
+      </a>
     </div>
   </div>
-  <h3>Tools, Frameworks, Libraries, Languages</h3>
+  <h3>Tools, Frameworks & Libraries</h3>
     <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; background-color: blue;">
       <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;">
       <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -48,25 +63,9 @@
       <img src="./assets/angular.svg" alt="angular" width="40" height="40" title="Angular" />
       <span>Angular</span>
       </a>
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <img src="./assets/csharp.svg" alt="csharp" width="40" height="40" title="C#" />
-      <span>C#</span>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <img src="./assets/javascript.svg" alt="javascript" width="40" height="40" title="JavaScript" />
-      <span>JavaScript</span>
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <img src="./assets/typescript.svg" alt="typescript" width="40" height="40" title="TypeScript" />
-      <span>TypeScript</span>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <img src="./assets/html5.svg" alt="html5" width="40" height="40" title="HTML" />
-      <span>HTML</span>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <img src="./assets/css.png" alt="css" width="40" height="40" title="CSS" />
-      <span>CSS</span>
+      <a href="https://angular.io" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/sql-server.svg" alt="angular" width="40" height="40" title="MsSql Server" />
+      <span>MsSql Server</span>
       </a>
     </div>
   </div>
