@@ -52,8 +52,8 @@
       <img src="./assets/csharp.svg" alt="csharp" width="40" height="40" title="C#" />
       <span>C#</span>
       </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <img src="./assets/javascript.svg" alt="javascript" width="40" height="40" title="JavaScript" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/javascript.svg" alt="javascript" width="40" height="40" title="JavaScript" />
       <span>JavaScript</span>
       </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -71,35 +71,19 @@
     </div>
   </div>
   <h3>Cloud providers</h3>
-  <p>
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
     <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;"> 
-      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-        <img
-          src="./assets/azure.svg"
-          alt="azure"
-          width="40"
-          height="40"
-        />
-        <span>Azure</span>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+    <img src="./assets/azure.svg" alt="azure" width="40" height="40" title="Azure" />
+    <span>Azure</span>
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <img
-        src="./assets/aws.svg"
-        alt="aws"
-        width="40"
-        height="40"
-      />
-      <span>Amazon</span>
+    <img src="./assets/aws.svg" alt="aws" width="40" height="40" title="AWS" />
+    <span>Amazon</span>
     </a>
-     <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <img
-        src="./assets/google.svg"
-        alt="gcp"
-        width="40"
-        height="40"
-      />
-      <span>Google</span>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+    <img src="./assets/google.svg" alt="gcp" width="40" height="40" title="Google" />
+    <span>Google</span>
     </a>
     </div>
   </div>
