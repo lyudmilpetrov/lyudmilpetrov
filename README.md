@@ -28,7 +28,7 @@
     </a>
   </p>
   <h3>Languages</h3>
-  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; background-color: blue;">
     <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;">
 
     </div>
