@@ -38,6 +38,10 @@
       <img src="./assets/sql.svg" alt="typescript" width="40" height="40" title="SQL" />
       <span>SQL</span>
       </a>
+      <a href="https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/powershell.svg" alt="typescript" width="40" height="40" title="PowerShell" />
+      <span>PowerShell</span>
+      </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img src="./assets/html5.svg" alt="html5" width="40" height="40" title="HTML" />
       <span>HTML</span>
@@ -55,17 +59,29 @@
       <img src="./assets/dotnet.svg" alt="dotnet" width="40" height="40" title=".Net" />
       <span>.Net & .Net Framework</span>
       </a>
-      <a href="https://react.dev" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <a href="https://react.dev/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img src="./assets/react.jpeg" alt="react" width="40" height="40" title="React" />
       <span>React</span>
       </a>
-      <a href="https://angular.io" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <a href="https://angular.io/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img src="./assets/angular.svg" alt="angular" width="40" height="40" title="Angular" />
       <span>Angular</span>
       </a>
-      <a href="https://angular.io" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img src="./assets/sql-server.svg" alt="angular" width="40" height="40" title="MsSql Server" />
       <span>MsSql Server</span>
+      </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/mongodb.svg" alt="angular" width="40" height="40" title="MongoDb" />
+      <span>MongoDb</span>
+      </a>
+      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/tensorflow.svg" alt="angular" width="40" height="40" title="TensorFlow" />
+      <span>TensorFlow</span>
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
+      <img src="./assets/tailwindcss.svg" alt="angular" width="40" height="40" title="tailwind" />
+      <span>Tailwind</span>
       </a>
     </div>
   </div>
