@@ -43,7 +43,6 @@
               width="40"
               height="40"
             />
-            <br/>
             <span>.Net & .Net Framework</span>
         </a>
         <a href="https://react.dev" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -53,7 +52,6 @@
               width="40"
               height="40"
             />
-            <br/>
             <span>React</span>
         </a>
         <a href="https://angular.io" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -64,7 +62,6 @@
               height="40"
               title="Angular - HTML and TypeScript-based web application framework"
             />
-            <br/>
             <span>Angular</span>
         </a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -74,9 +71,7 @@
             width="40"
             height="40"
             title="C#"
-          />
-          <br/>
-          <span>C#</span>
+          />          <span>C#</span>
         </a>
         <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -88,9 +83,7 @@
           width="40"
           height="40"
           title="JavaScript"
-        />
-        <br/>
-        <span>JavaScript</span>
+        /        <span>JavaScript</span>
         </a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
           <img
@@ -99,9 +92,7 @@
             width="40"
             height="40"
             title="TypeScript"
-          />
-        <br/>
-        <span>TypeScript</span>
+          /        <span>TypeScript</span>
         </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
           <img
@@ -110,9 +101,7 @@
             width="40"
             height="40"
             title="HTML"
-          />
-        <br/>
-        <span>HTML</span>
+          /        <span>HTML</span>
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
             <img
@@ -121,7 +110,6 @@
               width="40"
               height="40"
             />
-            <br/>
             <span>CSS</span>
         </a>
     </div>
@@ -137,7 +125,6 @@
           width="40"
           height="40"
         />
-        <br/>
         <span>Azure</span>
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -147,7 +134,6 @@
         width="40"
         height="40"
       />
-      <br/>
       <span>Amazon</span>
     </a>
      <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
@@ -157,7 +143,6 @@
         width="40"
         height="40"
       />
-      <br/>
       <span>Google</span>
     </a>
     </div>
@@ -172,9 +157,7 @@
           alt="bootstrap"
           width="40"
           height="40"
-        />
-        <br/>
-        <span>Bootstrap</span>
+        /        <span>Bootstrap</span>
       </a>
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img
@@ -182,9 +165,7 @@
         alt="chartjs"
         width="40"
         height="40"
-      />
-      <br/>
-      <span>Chart.js</span>
+            <span>Chart.js</span>
     </a>
 
 
