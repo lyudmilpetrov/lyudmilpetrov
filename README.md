@@ -12,13 +12,6 @@
 - 💬 Ask me about **React, Angular, SignalR, C#**
 
 - 📫 How to reach me **lyudmilpetrov79@gmail.com**
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-okay
 
   <h3>Connect with me:</h3>
   <p>
