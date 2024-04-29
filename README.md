@@ -13,12 +13,6 @@
 
 - 📫 How to reach me **lyudmilpetrov79@gmail.com**
 
-  <style>
-    .icon-label {
-      text-align: center;
-      color: #333; /* Dark grey color for light backgrounds */
-    }
-  </style>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a
