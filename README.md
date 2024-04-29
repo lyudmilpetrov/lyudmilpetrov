@@ -18,7 +18,7 @@ h1 {color:red;}
 
 p {color:blue;}
 </style>
-<p>okay</p>
+okay
 
   <h3>Connect with me:</h3>
   <p>
