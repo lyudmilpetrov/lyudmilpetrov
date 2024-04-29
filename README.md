@@ -134,7 +134,7 @@
         width="40"
         height="40"
       />
-      <span>Amazon</span>
+      Amazon
     </a>
      <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img
