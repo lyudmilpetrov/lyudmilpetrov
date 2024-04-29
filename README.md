@@ -37,9 +37,8 @@
     <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
       <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;">
       <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
-      <span style="display: flex; flex-direction: column;>
       <img src="./assets/dotnet.svg" alt="dotnet" width="40" height="40" title=".Net" />
-      .Net & .Net Framework</span>
+      <span>.Net & .Net Framework</span>
       </a>
       <a href="https://react.dev" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
       <img src="./assets/react.jpeg" alt="react" width="40" height="40" title="React" />
