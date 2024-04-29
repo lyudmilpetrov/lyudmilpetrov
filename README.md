@@ -71,7 +71,7 @@
     </div>
   </div>
   <h3>Cloud providers</h3>
-  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; background-color: blue;">
     <div style="display: flex; flex-direction: row; align-items: center; margin: 7px;"> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 3px;">
     <img src="./assets/azure.svg" alt="azure" width="40" height="40" title="Azure" />
