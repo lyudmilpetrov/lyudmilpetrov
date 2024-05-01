@@ -54,8 +54,8 @@
       <img src="./assets/sas.png" alt="css" width="55" height="40" title="CSS" />
       <span>SAS</span>
       </a>
-      <a href="https://www.sas.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
-      <img src="./assets/vb.jpg" alt="css" width="50" height="40" title="CSS" />
+      <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
+      <img src="./assets/vb.jpg" alt="css" width="50" height="40" title="Visual Basic" />
       <span>Visual Basic</span>
       </a>
     </div>
@@ -83,6 +83,10 @@
       <img src="./assets/mongodb.svg" alt="angular" width="40" height="40" title="MongoDb" />
       <span>MongoDb</span>
       </a>
+      <a href="https://learn.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
+      <img src="./assets/signalr.jpeg" alt="angular" width="80" height="40" title="SignalR" />
+      <span>SignalR</span>
+      </a>
       <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
       <img src="./assets/tensorflow.svg" alt="angular" width="40" height="40" title="TensorFlow" />
       <span>TensorFlow</span>
@@ -90,6 +94,14 @@
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
       <img src="./assets/tailwindcss.svg" alt="angular" width="40" height="40" title="tailwind" />
       <span>Tailwind</span>
+      </a>
+      <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
+      <img src="./assets/mui.png" alt="angular" width="40" height="40" title="Material UI" />
+      <span>Material UI</span>
+      </a>
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
+      <img src="./assets/bootstrap.png" alt="angular" width="40" height="40" title="Bootstrap" />
+      <span>Bootstrap</span>
       </a>
     </div>
   </div>
