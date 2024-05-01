@@ -117,7 +117,7 @@
     <span>Azure</span>
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
-    <img src="./assets/aws.gif" alt="aws" width="40" height="40" title="AWS" />
+    <img src="./assets/aws.jpeg" alt="aws" width="60" height="40" title="AWS" />
     <span>Amazon</span>
     </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
