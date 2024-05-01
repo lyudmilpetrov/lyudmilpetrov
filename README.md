@@ -50,6 +50,14 @@
       <img src="./assets/css.png" alt="css" width="40" height="40" title="CSS" />
       <span>CSS</span>
       </a>
+      <a href="https://www.sas.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
+      <img src="./assets/sas.png" alt="css" width="55" height="40" title="CSS" />
+      <span>SAS</span>
+      </a>
+      <a href="https://www.sas.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
+      <img src="./assets/vb.jpg" alt="css" width="50" height="40" title="CSS" />
+      <span>Visual Basic</span>
+      </a>
     </div>
   </div>
   <h3>Tools, Frameworks & Libraries</h3>
