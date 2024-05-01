@@ -3,8 +3,8 @@
   A passionate Full Stack Developer and Process Automation Engineer from USA
 </h3>
 
-- 🔭 I’m currently working on [improving search and sort
-  algorithms](https://github.com/lyudmilpetrov/Algorithms)
+- 🔭 I’m currently working on two interesting for me topics: creating in-browser [authentication with face and voice recognition](https://github.com/lyudmilpetrov/face-recognition-app) and [improving search and sort
+  algorithms](https://github.com/lyudmilpetrov/Algorithms) 
 - 🌱 I’m currently learning **Socket.IO; Algorithms;**
 
 - 👯 I’m looking to collaborate on **small political platform that I am currently developing**
