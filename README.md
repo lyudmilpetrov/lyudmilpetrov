@@ -55,8 +55,8 @@
       <span>SAS</span>
       </a>
       <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
-      <img src="./assets/vb.jpg" alt="css" width="50" height="40" title="Visual Basic" />
-      <span>Visual Basic</span>
+      <img src="./assets/vb.png" alt="css" width="50" height="40" title="VB.net" />
+      <span>VB.net</span>
       </a>
     </div>
   </div>
@@ -78,6 +78,10 @@
       <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
       <img src="./assets/sql-server.svg" alt="angular" width="40" height="40" title="MsSql Server" />
       <span>MsSql Server</span>
+      </a>
+      <a href="https://www.oracle.com/servers/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
+      <img src="./assets/oracle.jpeg" alt="angular" width="70" height="40" title="Oracle Server" />
+      <span>Oracle Server</span>
       </a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
       <img src="./assets/mongodb.svg" alt="angular" width="40" height="40" title="MongoDb" />
