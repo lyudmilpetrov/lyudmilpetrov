@@ -76,7 +76,7 @@
       <span>Angular</span>
       </a>
       <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
-      <img src="./assets/sql-server.svg" alt="angular" width="40" height="40" title="MsSql Server" />
+      <img src="./assets/sql.jpg" alt="angular" width="70" height="40" title="MsSql Server" />
       <span>MsSql Server</span>
       </a>
       <a href="https://www.oracle.com/servers/" target="_blank" rel="noreferrer" style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 5px;">
